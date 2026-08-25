@@ -1,0 +1,7 @@
+{
+  "alpha": 0.05,
+  "primary_test": "two-proportion z-test",
+  "decision": "Reject H0",
+  "statistically_significant": true,
+  "methodological_note": "The CSV does not document the original randomization mechanism or the intended treatment/control allocation ratio. Statistical evidence is strong, but causal interpretation depends on the original experiment design."
+}
